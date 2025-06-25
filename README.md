@@ -3,7 +3,7 @@
 **Scan the local net. Uncover what's hiding. Stay unseen.**  
 > 🔧 Minimalist Python tool for digital recon missions.
 
-**Author:** YourNameHere  
+**Author:** Farnaz 
 📡 **Version:** 1.0  
 🧭 **Local Intel Mode:** Activated  
 🧠 **Dependencies:** 0  
