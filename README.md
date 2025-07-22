@@ -1,7 +1,7 @@
-# 🕷️ IPScout
+# IPScout
 
 **Scan the local net. Uncover what's hiding. Stay unseen.**  
-> 🔧 Minimalist Python tool for digital recon missions.
+>  Minimalist Python tool for digital recon missions.
 
 📡 **Version:** 1.0  
 🧭 **Local Intel Mode:** Activated  
@@ -20,23 +20,23 @@ Whether you’re mapping out a dev lab, checking on rogue devices, or building t
 
 ---
 
-## 🔍 Core Ops
+## Core Ops
 
-- 🛰️ **Ping Check**  
+-  **Ping Check**  
   Checks device reachability using native `ping`  
   (Windows: `-n`, Linux/macOS: use `-c`)
 
-- 🧠 **Hostname Resolver**  
+-  **Hostname Resolver**  
   Attempts reverse DNS lookup for human-readable names
 
-- 🔐 **TCP Port Scanner**  
+-  **TCP Port Scanner**  
   Scans core service ports: FTP, SSH, HTTP(S), SMTP, RDP, MySQL, DNS, and more
 
-- ⏱️ 4-second timeout to prevent stalling on dead air
+-  4-second timeout to prevent stalling on dead air
 
 ---
 
-## 🧪 Sample Run
+## Sample Run
 
 ```shell
 $ python IPScout.py
