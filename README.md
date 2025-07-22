@@ -10,7 +10,7 @@
 
 ---
 
-## 👁 Overview
+## Overview
 
 **IPScout** is a lightweight tactical reconnaissance script for probing live devices and scanning common open ports in your local environment.
 
