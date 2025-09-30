@@ -1,4 +1,4 @@
-# IPScout
+# -IPScout
 
 **Scan the local net. Uncover what's hiding. Stay unseen.**  
 >  Minimalist Python tool for digital recon missions.
